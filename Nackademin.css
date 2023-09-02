@@ -1,0 +1,199 @@
+
+.bot{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.mid{
+    display: flex;
+    flex-direction: row;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+}
+.rub-box{
+    width: 1000px;
+    flex: 1;
+}
+.boman-box{
+    width: 260px;
+    height: 70px;
+    
+}
+.boman-mail-box{
+    width: 260px;
+    height: 40px;
+    
+}
+.boman-tel-box{
+    width: 260px;
+    height: 40px;
+    
+}
+.it-mail-box{
+    width: 1000px;
+    flex: 1;
+}
+
+.mail-box{
+    width: 500px;
+    height: 150px;
+    display: inline-block;
+    
+    
+}
+
+.schema-box{
+    width: 285px;
+    height: 150px;
+    display: inline-block;
+    
+}
+
+.learn-box{
+    width: 600px;
+    height: 150px;
+    display: inline-block;
+    
+}
+
+.It-Mail{
+    font-size: 20px;
+    margin-left: 475px;
+    font-style: italic;
+    color: rgb(94, 93, 93);
+    
+}
+
+.Boman-Tel{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(94, 93, 93);
+    margin-top: 0px
+}
+
+.Boman-Mail{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(94, 93, 93);
+    margin-top: 10px;
+}
+
+.Boman{
+font-size: 18px;
+font-style: italic;
+color: rgb(94, 93, 93);
+margin-top: 50px;
+
+}
+
+body{
+    background-color: beige;
+}
+
+.Learn{
+    background-color: burlywood;
+color: rgb(237, 234, 234);
+height: 60px;
+width: 200px;
+font-size: 36px;
+cursor: pointer;
+border-radius: 4px;
+margin-top: 60px;
+margin-left: 35px;
+transition: opacity 0.5s, opacity 0.5s, box-shadow 0.5s;
+border-style: solid;
+border-color: rgb(120, 119, 119);
+}
+
+.Learn:hover {
+opacity: 0.8;
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.4);
+}
+
+.Learn:active{
+opacity: 0.5;
+}
+
+.Schema{
+    background-color: burlywood;
+color: rgb(237, 234, 234);
+height: 60px;
+width: 200px;
+font-size: 36px;
+cursor: pointer;
+border-radius: 4px;
+margin-top: 60px;
+margin-left: 60px;
+transition: opacity 0.5s, opacity 0.5s, box-shadow 0.5s;
+border-style: solid;
+border-color: rgb(120, 119, 119);
+}
+
+.Schema:hover {
+opacity: 0.8;
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.4);
+}
+
+.Schema:active{
+opacity: 0.5;
+}
+
+.Mail{
+background-color: burlywood;
+color: rgb(237, 234, 234);
+height: 60px;
+width: 200px;
+font-size: 36px;
+cursor: pointer;
+border-radius: 4px;
+margin-top: 60px;
+margin-left: 300px;
+transition: opacity 0.5s, opacity 0.5s, box-shadow 0.5s;
+border-style: solid;
+border-color: rgb(120, 119, 119);
+
+}
+
+.Mail:hover {
+opacity: 0.8;
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.4);
+}
+
+.Mail:active{
+opacity: 0.5;
+}
+
+.Studentport{
+background-color: rgb(149, 118, 77);
+color: rgb(237, 234, 234);
+height: 150px;
+width: 380px;
+font-size: 40px;
+cursor: pointer;
+border-radius: 4px;
+margin-top: 10px;
+margin-left: 465px;
+transition: opacity 0.5s, opacity 0.5s, box-shadow 0.5s;
+border-style: solid;
+border-color: rgb(120, 119, 119);
+
+}
+.Studentport:hover {
+opacity: 0.8;
+box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.4);
+}
+.Studentport:active{
+opacity: 0.5;
+}
+
+.Rub{
+font-size: 60px;
+margin-top: 40px;
+margin-left: 370px;
+
+
+}
+
